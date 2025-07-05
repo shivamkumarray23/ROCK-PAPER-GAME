@@ -84,3 +84,12 @@ This application demonstrates key programming concepts such as event-driven prog
 * Improve UI with better styling or dark/light mode toggle.
 ## **11. Conclusion**
 The Rock, Paper, Scissors game using Python's `tkinter` is a fun and educational project that introduces basic GUI programming, event handling, and conditional logic. This project serves as a stepping stone for more complex game development and GUI applications. It is ideal for Python beginners who want to practice building interactive desktop applications.
+## **12.OUTPUT**
+
+![Screenshot 2025-07-05 130133](https://github.com/user-attachments/assets/91e03c47-ce93-41a0-90a0-0d8ce638d3f2)
+
+![Screenshot 2025-07-05 130142](https://github.com/user-attachments/assets/c7357b0d-e660-481c-b048-09e918e42e50)
+
+![Screenshot 2025-07-05 130205](https://github.com/user-attachments/assets/61a0f915-a51f-42ca-aad3-971ca93ecfb7)
+
+![Screenshot 2025-07-05 130223](https://github.com/user-attachments/assets/5d3ea86c-7a1a-44f1-9adc-4840a04e9955)
